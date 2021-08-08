@@ -6,7 +6,7 @@
 
 ## Installation Instructions
 
-1. Run git clone https://github.com/mohamedenein/task.git
+1. Run git clone https://github.com/mohamedenein/authentication_task.git
 2. Create a MySQL database for the project
 3. From the projects root run `cp .env.example .env`
 4. Make connection with database in `.env` file
